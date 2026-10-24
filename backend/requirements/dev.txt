@@ -482,7 +482,7 @@ release-tag==0.4.3
     # via onyx
 reorder-python-imports-black==3.14.0
     # via onyx
-requests==2.32.5
+requests==2.34.2
     # via
     #   cohere
     #   google-api-core
