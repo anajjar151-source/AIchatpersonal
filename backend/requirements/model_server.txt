@@ -61,7 +61,7 @@ cachetools==6.2.2
     # via google-auth
 celery==5.5.1
     # via sentry-sdk
-certifi==2025.11.12
+certifi==2026.7.22
     # via
     #   httpcore
     #   httpx

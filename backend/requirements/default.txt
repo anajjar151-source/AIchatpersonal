@@ -116,7 +116,7 @@ caio==0.9.25
     # via aiofile
 celery==5.5.1
     # via onyx
-certifi==2025.11.12
+certifi==2026.7.22
     # via
     #   asana
     #   httpcore
